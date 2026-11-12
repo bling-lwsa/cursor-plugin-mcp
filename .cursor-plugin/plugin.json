@@ -1,0 +1,9 @@
+{
+  "name": "bling",
+  "description": "Conecta o Cursor ao Bling ERP para consultar e gerenciar pedidos, notas fiscais, estoque, financeiro e contatos.",
+  "version": "1.0.0",
+  "author": { "name": "Bling" },
+  "homepage": "https://developer.bling.com.br/mcp-server",
+  "keywords": ["mcp", "bling", "erp"],
+  "logo": "assets/logo.svg"
+}
