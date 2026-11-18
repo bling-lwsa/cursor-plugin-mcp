@@ -1,4 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
-  <rect x="0" y="0" width="256" height="256" fill="#FFFFFF"/>
-  <text x="128" y="128" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="bold" fill="#000000" text-anchor="middle" dominant-baseline="middle">Bling</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #94f573;
+      }
+
+      .cls-2 {
+        fill: #002725;
+      }
+    </style>
+  </defs>
+  <g id="Camada_2-2" data-name="Camada 2">
+    <g>
+      <rect class="cls-1" width="500" height="500"/>
+      <path class="cls-2" d="M250.05,174.21c-23.53,0-47.05,6.98-66.83,19.72v-111.45c0-3.7-3-6.7-6.7-6.7h-43.97c-3.74,0-6.69,2.95-6.69,6.7v222.37l.8,6.7c7.36,72.83,77.93,126.74,153.73,107.97,47.46-11.67,84.35-51.9,92.11-100.32,12.44-77.65-47.33-144.98-122.46-144.98l.02-.02ZM250.05,365.72c-38.2,0-68.94-32.34-66.72-71,1.96-34.16,29.79-61.7,63.97-63.07,38.14-1.54,69.6,29.07,69.6,67.01s-29.94,67.06-66.85,67.06Z"/>
+    </g>
+  </g>
 </svg>
